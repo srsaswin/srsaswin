@@ -15,6 +15,5 @@
 
 📫 Reach me at [s.saswin2005@gmail.com](mailto:s.saswin2005@gmail.com)  
 🌍 GitHub: [srsaswin](https://github.com/srsaswin)
-
-😄 Pronouns: He/Him  
+ 
 ⚡ Fun fact: I've solved over **180+** problems on **SkillRack** and participated in a **24-hour programming contest** at my college.
